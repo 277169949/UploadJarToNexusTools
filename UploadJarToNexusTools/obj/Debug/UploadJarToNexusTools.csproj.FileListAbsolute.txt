@@ -1,0 +1,13 @@
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\MainWindow.g.cs
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\App.g.cs
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools_MarkupCompile.cache
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools_MarkupCompile.lref
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\bin\Debug\UploadJarToNexusTools.exe.config
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\bin\Debug\UploadJarToNexusTools.exe
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\bin\Debug\UploadJarToNexusTools.pdb
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\MainWindow.baml
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools.g.resources
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools.Properties.Resources.resources
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools.csproj.GenerateResource.Cache
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools.exe
+F:\c#workspace\UploadJarToNexusTools\UploadJarToNexusTools\obj\Debug\UploadJarToNexusTools.pdb
