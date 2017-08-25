@@ -43,18 +43,17 @@ namespace UploadJarToNexusTools
 
         private void refresh_commands_Click(object sender, RoutedEventArgs e)
         {
-          //  this.upload_commands.Text = commands;
-            String commands  = "mvn deploy:deploy-file -DgroupId="+this.DgroupId_textBox1.Text+ "  -DartifactId="+this.DartifactId_textBox.Text+ " -Dversion="+ this.Dversion_textBox.Text+ " -Dpackaging=jar -Dfile="+ this.jar_textbox.Text+ " -Durl="+this.repository_url_textBox.Text+ " -DrepositoryId=" +this.repository_name_textBox.Text;
-
+            //  this.upload_commands.Text = commands;
+            String commands = getCommands();
             this.upload_commands.Text = commands;
-
+            
 
         }
+        public String getCommands() {
 
-        private void upload_button_Click(object sender, RoutedEventArgs e)
-        {
-            //上文文件
-            //
+            String commands = "mvn deploy:deploy-file -DgroupId=" + this.DgroupId_textBox1.Text + "  -DartifactId=" + this.DartifactId_textBox.Text + " -Dversion=" + this.Dversion_textBox.Text + " -Dpackaging=jar -Dfile=" + this.jar_textbox.Text + " -Durl=" + this.repository_url_textBox.Text + " -DrepositoryId=" + this.repository_name_textBox.Text;
+            return commands;
         }
+         
     }
 }
